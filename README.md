@@ -1,1 +1,1 @@
-That repository contans pricheta's blueprints
+A repository to collect my own blueprints
