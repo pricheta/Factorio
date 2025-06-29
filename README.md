@@ -1,1 +1,1 @@
-A repository to collect my own blueprints
+A repository to collect my factorio things
